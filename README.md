@@ -60,7 +60,6 @@ The data was sourced from **Kaggle** and visualized using **Google Sheets** and 
 ---
 
 ## 📷 Visualization
-![Dashboard Preview]()
 
 Explore the interactive dashboard on Tableau Public:
 [View the Interactive Dashboard](https://public.tableau.com/app/profile/angel.francis7553/viz/EVTrendInIndia2014-2023/EVGrowth)
