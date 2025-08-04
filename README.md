@@ -7,6 +7,8 @@ The data was sourced from **Kaggle** and visualized using **Google Sheets** and 
 ## 📊 Key Findings
 
 - From **2014 to 2019**, EV sales showed a **gradual increase**, growing from **2,392** units to **166,819** units.
+  Driving Forces: Initial push via government initiatives like FAME-I.
+  Challenges: High vehicle costs, limited range, and inadequate charging infrastructure.
 - In **2020**, sales **declined to 124,684 units**, largely due to the **COVID-19 pandemic**.
 - From **2021 onward**, EV sales experienced a **sharp surge**:
   - **2021**: 331,498 units
@@ -24,6 +26,12 @@ The data was sourced from **Kaggle** and visualized using **Google Sheets** and 
 | Three-Wheelers   | 1,567,388        |
 | Four-Wheelers    | 141,807          |
 
+- **Why Dominant?**
+  - ✅ **Economic Viability:** Affordable upfront cost and low running expenses.
+  - ✅ **Urban Suitability:** Compact and maneuverable for congested roads.
+  - ✅ **Commercial Use:** E3Ws play a key role in last-mile delivery and urban logistics.
+  - ✅ **Government Support:** FAME schemes and state-level incentives focused on 2W/3W segments.
+
 ---
 
 ## 🏆 Top 3 Indian States by EV Sales
@@ -33,6 +41,13 @@ The data was sourced from **Kaggle** and visualized using **Google Sheets** and 
 | Uttar Pradesh    | 594,931    |
 | Maharashtra      | 375,349    |
 | Karnataka        | 297,070    |
+
+### 🔍 Why These States Lead:
+
+- **Proactive Policies:** Tax incentives, subsidies, and EV manufacturing support.
+- **Infrastructure Investments:** Rapid deployment of public and private charging stations.
+- **Focused Segments:** Special emphasis on two- and three-wheelers.
+- **Strong Automotive Ecosystems:** Existing auto and battery production hubs.
 
 ---
 
