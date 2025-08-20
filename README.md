@@ -4,6 +4,13 @@ This data analysis project explores the rise of Electric Vehicle (EV) adoption i
 The data was sourced from **Kaggle** and visualized using **Google Sheets** and **Tableau Public**.
 ---
 
+## 📊 Project Workflow
+1. **Data Import** – Used Kaggle dataset on EV sales in India (2014–2023).  
+2. **Exploratory Data Analysis (EDA)** – Analyzed adoption trends across time, categories, and states.  
+3. **Visualization** – Created interactive Tableau dashboards to highlight growth patterns.  
+4. **Insight Generation** – Interpreted results to connect data with real-world policy and business implications.  
+
+---
 ## 📊 Key Findings
 
 - From **2014 to 2019**, EV sales showed a **gradual increase**, growing from **2,392** units to **166,819** units.
@@ -72,5 +79,23 @@ Explore the interactive dashboard on Tableau Public:
 - Tableau Public – Used to create interactive visualizations and dashboards
 
 ---
+
+## 💡 Business Impact
+This analysis can help:  
+- Policymakers identify states requiring more charging infrastructure.  
+- Businesses focus EV marketing on **two- and three-wheeler markets**.  
+- Investors spot **fast-growing regions** for EV adoption.  
+
+---
+## 🎯 Skills Demonstrated
+- Exploratory Data Analysis (EDA)  
+- Time-Series Analysis  
+- Data Visualization (Tableau)  
+- Data Storytelling & Business Insights  
+
+---
+
+✨ **Conclusion:**  
+This project showcases how data analytics can turn raw datasets into actionable insights for real-world decision-making.  
 
 
