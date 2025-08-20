@@ -1,7 +1,8 @@
 # ⚡FROM SPARK TO SURGE: EV GROWTH IN INDIA(2014–2023)
 
 This data analysis project explores the rise of Electric Vehicle (EV) adoption in India between 2014 and 2023, using a dataset that records **EV sales on the first day of each month** during this period.  
-The data was sourced from **Kaggle** and visualized using **Google Sheets** and **Tableau Public**.
+Explore the interactive dashboard on Tableau Public:
+[View the Interactive Dashboard](https://public.tableau.com/app/profile/angel.francis7553/viz/EVTrendInIndia2014-2023/EVGrowth)
 ---
 
 ## 📊 Project Workflow
@@ -66,10 +67,11 @@ The data was sourced from **Kaggle** and visualized using **Google Sheets** and 
 
 ---
 
-## 📷 Visualization
+## 📷 Visualization Snapshot
 
-Explore the interactive dashboard on Tableau Public:
-[View the Interactive Dashboard](https://public.tableau.com/app/profile/angel.francis7553/viz/EVTrendInIndia2014-2023/EVGrowth)
+![EV Dashboard](
+https://github.com/angel1234-ship-it/Data-Analytics/blob/main/India%E2%80%99s%20Electric%20Vehicle%20Market_%20A%20Data-Driven%20Overview%20(2014%E2%80%932023.png
+)
 
 ---
 
