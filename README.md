@@ -2,7 +2,7 @@
 
 This data analysis project explores the rise of Electric Vehicle (EV) adoption in India between 2014 and 2023, using a dataset that records **EV sales on the first day of each month** during this period.  
 Explore the interactive dashboard on Tableau Public:
-[View the Interactive Dashboard](https://public.tableau.com/app/profile/angel.francis7553/viz/EVTrendInIndia2014-2023/EVGrowth)
+[View the full project on Tableau](https://public.tableau.com/app/profile/angel.francis7553/viz/EVTrendInIndia2014-2023/EVGrowth)
 ---
 
 ## 📊 Project Workflow
